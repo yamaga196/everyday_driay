@@ -1,0 +1,135 @@
+/* body */
+body{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* index */
+.index_create{
+  display: block;
+  width: 10%;
+  margin-right: 80%;
+  height: 1.5em;
+  line-height: 1.5em;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid black;
+}
+.index_create:hover{
+  background-color: #222;
+  color: #ddd;
+}
+.index_date_detail{
+  display: flex;
+}
+.index_dete{
+  width: 10%;
+  margin-top: 1em;
+  text-align: left;
+  font-size: 1.25em;
+  text-decoration: none;
+  color: #000;
+}
+.index_dete:hover{
+  color: #777;
+  text-decoration: underline;
+}
+.index_english{
+  width: 90%;
+  margin-top: 1em;
+  font-size: 1.25em;
+}
+
+
+/* detail */
+.detail_date_index{
+  display: flex;
+  height: 3em;
+}
+.detail_data{
+  width: 20%;
+  margin-right: 70%;
+  height: 100%;
+  text-align: center;
+  border: 1px solid black;
+}
+.detail_index{
+  width: 10%;
+  height: 100%;
+  line-height: 1.5em;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid black;
+}
+.detail_index:hover{
+  background-color: #222;
+  color: #ddd;
+}
+.detail_img{
+  width: 35%;
+  margin-top: 1em;
+  margin-left: 32.5%;
+  margin-right: 32.5%;
+  height: 25em;
+}
+.detail_driay_title{
+  width: 15%;
+  margin-left: 10%;
+  margin-right: 40%;
+  margin-top: 1em;
+  height: 1em;
+  line-height: 1em;
+  text-align: center;
+  font-size: 1.5em;
+  border: 1px solid black;
+  border-bottom: none;
+}
+.detail_driay{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 3em;
+  font-size: 1.8em;
+  border: 1px solid black;
+}
+
+/* create */
+.create_submit{
+  display: block;
+  width: 20%;
+  margin-top: 1em;
+  margin-left: 80%;
+  height: 1.5em;
+  line-height: 1.5em;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid black;
+}
+.create_submit:hover{
+  background-color: #222;
+  color: #ddd;
+}
+.create_input_file{
+  width: 35%;
+  margin-top: 1em;
+  margin-left: 32.5%;
+  margin-right: 32.5%;
+  height: 25em;
+}
+.create_img{
+  height: 10%;
+}
+.create_preview{
+  height: 90%;
+  width: 100%;
+}
